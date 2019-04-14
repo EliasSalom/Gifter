@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Gifter.Page1">
+    <MasterDetailPage.Master>
+        <ContentPage Padding="10" Title="Master">
+            <ContentPage.Content>
+                <StackLayout>
+                    <Label Text="Master Page"></Label>
+                    <Button Text="בית"/>
+                    <Button Text="אישי"/>
+                    <Button Text="ארוע חדש"/>
+                    <Button Text="הסטוריה"/>
+                </StackLayout>
+            </ContentPage.Content>
+        </ContentPage>
+    </MasterDetailPage.Master>
+
+    <MasterDetailPage.Detail>
+        <ContentPage>
+            <ContentPage.Content>
+                <StackLayout>
+                    <StackLayout>
+
+                        <!--<Button Text="Settings"
+                            HorizontalOptions="End"
+                            VerticalOptions="End" />-->
+
+                        <Label Text="" 
+                               x:Name="mycode"
+                                HorizontalOptions="Center"
+                                VerticalOptions="CenterAndExpand" />
+
+                        <StackLayout Orientation="Horizontal"  HorizontalOptions="FillAndExpand">
+                            <StackLayout Orientation="Vertical"  HorizontalOptions="FillAndExpand">
+                                <Button Text="Scan"
+                                        VerticalOptions="Center"
+                                        Clicked="btnScan_Clicked"/>
+                            </StackLayout>
+
+                            <StackLayout Orientation="Vertical"  HorizontalOptions="FillAndExpand">
+                                <Button Text="New Event"
+                                        VerticalOptions="Center"/>
+                            </StackLayout>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal"  HorizontalOptions="FillAndExpand">
+
+                            <StackLayout Orientation="Vertical"  HorizontalOptions="FillAndExpand">
+                                <Button Text="Coming Event"/>
+                            </StackLayout>
+
+                            <StackLayout Orientation="Vertical"  HorizontalOptions="FillAndExpand">
+                                <Button Text="Mony"/>
+                            </StackLayout>
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </StackLayout>
+            </ContentPage.Content>
+        </ContentPage>
+    </MasterDetailPage.Detail>
+
+</MasterDetailPage>

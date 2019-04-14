@@ -1,0 +1,15 @@
+D:\New_App\Gifter\Gifter\Gifter\Gifter\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\New_App\Gifter\Gifter\Gifter\Gifter\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\New_App\Gifter\Gifter\Gifter\Gifter\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+D:\New_App\Gifter\Gifter\Gifter\Gifter\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+D:\New_App\Gifter\Gifter\Gifter\Gifter\obj\Debug\netstandard2.0\Gifter.csproj.CoreCompileInputs.cache
+D:\New_App\Gifter\Gifter\Gifter\Gifter\obj\Debug\netstandard2.0\Gifter.AssemblyInfoInputs.cache
+D:\New_App\Gifter\Gifter\Gifter\Gifter\obj\Debug\netstandard2.0\Gifter.AssemblyInfo.cs
+D:\New_App\Gifter\Gifter\Gifter\Gifter\bin\Debug\netstandard2.0\Gifter.deps.json
+D:\New_App\Gifter\Gifter\Gifter\Gifter\bin\Debug\netstandard2.0\Gifter.dll
+D:\New_App\Gifter\Gifter\Gifter\Gifter\bin\Debug\netstandard2.0\Gifter.pdb
+D:\New_App\Gifter\Gifter\Gifter\Gifter\obj\Debug\netstandard2.0\Gifter.dll
+D:\New_App\Gifter\Gifter\Gifter\Gifter\obj\Debug\netstandard2.0\Gifter.pdb
+D:\New_App\Gifter\Gifter\Gifter\Gifter\obj\Debug\netstandard2.0\Gifter.csprojAssemblyReference.cache
+D:\New_App\Gifter\Gifter\Gifter\Gifter\obj\Debug\netstandard2.0\Scan.xaml.g.cs
+D:\New_App\Gifter\Gifter\Gifter\Gifter\obj\Debug\netstandard2.0\XamlC.stamp
